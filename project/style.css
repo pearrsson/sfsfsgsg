@@ -1,0 +1,251 @@
+body
+{
+margin:0;
+}
+
+/* desktop */
+.desktop{
+  width: 100%;
+  height: 100vh;
+  background: url("images/1.jpg") center no-repeat;
+  background-size: cover;
+
+}
+
+/*container */
+.container1{
+  width: 85%;
+  height:95vh;
+  margin: 0  auto;
+
+
+}
+.fraime7{
+  position: relative;
+  height:8vh;
+  width:72%;
+  top:3%;
+  margin:0 auto;
+
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+
+  background-color: #DBE3F6;
+}
+
+/* nav */
+.nav{
+  font-size:24px ;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+
+}
+
+.nav__link{
+  color: #3D9C91;
+  text-decoration: none;
+
+  transition:  color .2s liner;
+}
+
+.nav__link:hover{
+  color:#6A5ACD;
+}
+
+
+
+/* name */
+.name{
+  height:30vh;
+  width:90%;
+  
+  margin:0 auto;
+
+}
+
+.laptop1{
+width: 35%;
+height:30vh;
+
+}
+
+
+.name__name{
+  color: #fff;
+  font-size: 72px;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 5vh;
+
+}
+
+.name__after{
+  margin: 0  auto;
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Merriweather', serif;
+
+}
+
+/* main__rules */
+.main__rules{
+  position: relative;
+  height:60vh;
+  width:80%;
+  top:2%;
+  margin:0 auto;
+}
+
+.headline{
+  font-size: 42px;
+  font-weight: bold;
+  color: #fff;
+  font-family: 'Merriweather', serif;
+}
+
+.rules{
+  font-size: 25px;
+  font-weight: bold;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+/* etiquette */
+.etiquette{
+  width: 100%;
+  height: 100vh;
+  background: url("images/2.jpg") center no-repeat;
+  background-size: cover;
+}
+
+
+.container2{
+  width: 85%;
+  height:95vh;
+  margin: 0  auto;
+}
+
+.strogost{
+  position: relative;
+  height:16vh;
+  width:90%;
+  top:3%;
+  margin:0 auto;
+  background-color: #3D9C9133;
+}
+
+.strogost__s{
+  font-size: 24px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color: #fff;
+}
+
+
+/* points */
+.points{
+  width: 85%;
+  height:80vh;
+  margin: 0  auto;
+}
+
+.chatting{
+width: 20%;
+height:25vh;
+
+}
+
+.points1_5{
+  color: #fff;
+  font-size: 22px;
+  font-family: 'Merriweather', serif;
+  margin-top: 3%;
+}
+
+
+
+/* etiquette2 */
+.etiquette2{
+  width: 100%;
+  height: 100vh;
+  background: url("images/3.jpg") center no-repeat;
+  background-size: cover;
+}
+
+
+.container3{
+  width: 85%;
+  height:80vh;
+  margin: 0  auto;
+}
+
+.points6_11{
+  color: #fff;
+  font-size: 22px;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+
+
+/* selection */
+.selection{
+  width: 100%;
+  height: 100vh;
+  background: url("images/4.jpg") center no-repeat;
+  background-size: cover;
+}
+
+.container4{
+  width: 85%;
+  height:95vh;
+  margin: 0  auto;
+}
+
+
+.name__sel{
+  width: 90%;
+  height: 20vh;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0 auto;
+
+}
+
+
+.title{
+font-size: 64px;
+}
+
+.title__after{
+font-size: 40px;
+}
+
+.shirt{
+  margin-top: 10vh;
+width: 15%;
+height: 20vh;
+}
+
+
+
+
+
+/* selection2 */
+.selection2{
+  width: 100%;
+  height: 100vh;
+  background: url("images/5.jpg") center no-repeat;
+  background-size: cover;
+}
+
+.container5{
+  width: 85%;
+  height:95vh;
+  margin: 0  auto;
+}
